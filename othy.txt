@@ -3,6 +3,10 @@ worldddddddl
 That is an example
 Other lipppp
 Jeep
+<<<<<<< Updated upstream
 Other linesssss
+=======
+Other line22222
+>>>>>>> Stashed changes
 And 
 other
